@@ -1,0 +1,140 @@
+# CORE summary: Petzip
+
+- **Date:** 2026-07-17
+- **Org type:** personal
+
+## Belief
+
+Pets deserve the same clean, honest ingredients you would choose for yourself, and the bond that forms when you feed well is the real product.
+
+## Position
+
+Petzip is a founder-led natural pet treat brand for premium-minded pet owners in Australia and New Zealand. Built on a decade of executive experience inside Mars Petcare, it exists because the founder knows exactly what the global pet industry optimises for, and it is not always the animal. Petzip is the correction: clean ANZ-provenance ingredients, a personal guarantee from someone with the industry knowledge to mean it, and a brand small enough that the founder's name is still on every decision.
+
+## Customers
+
+> Who we serve and what they are really buying, ranked by commercial pull, never listed as equals.
+
+### Lead: Premium-minded Australian and New Zealand pet owners
+
+- **Really buying:** The reassurance that they are expressing love correctly: a treat that is genuinely clean, provenance-backed, and worthy of the bond they have with their animal.
+- **Why lead:** The stated market is ANZ, the emotional driver given is unconditional love plus health, and premium positioning signals willingness to pay at the Ziwi Peak price tier. This customer funds the business.
+
+
+## Offer
+
+> What we sell and how it is packaged: a tiered ladder, not a flat menu, with one clear reason to choose.
+
+### Entry: Single-Serve or Sample Pack
+
+A low-risk, first-purchase format: a small quantity of one treat variety, priced to remove the barrier for a new customer who has not yet trusted the brand.
+
+*Why it sits here:* Converts curiosity into a first transaction and begins the relationship without asking for full commitment upfront.
+
+### Core: Signature Natural Treat Range
+
+The primary product line, natural pet treats positioned at the premium ANZ tier, clean ingredients, clear provenance, designed for daily use and repeat purchase.
+
+*Why it sits here:* The recurring revenue engine. This is what the business is built on and where the brand promise is delivered.
+
+### Expansion: Curated Bundle or Subscription
+
+A multi-product bundle or regular delivery model, building on the Ziwi Peak comparison: a habit-forming, loyalty-deepening format for committed owners.
+
+*Why it sits here:* Increases customer lifetime value and reduces acquisition cost by turning a buyer into a subscriber.
+
+**One reason to choose:** ANZ provenance and clean ingredients, held to a standard that the founder spent a decade inside the global pet industry learning to see through.
+
+## Rivals
+
+> Who we are really up against and where the ownable seam sits, backed by evidence, not asserted.
+
+### Ziwi Peak
+
+- **Their claim:** The gold standard in New Zealand-made, air-dried natural pet food and treats, with deep distribution and a loyal premium following.
+- **Where it is weak:** A large incumbent that markets to the category broadly, not to the personal relationship between a specific founder and the animals they care for. The brand is corporate, not personal.
+- **Our response:** Petzip is the founder-led alternative: smaller, more considered, and built on a decade of industry knowledge that most buyers will never see inside a corporate brand.
+
+### Campfire Treats and comparable DTC natural treat brands
+
+- **Their claim:** Single-ingredient, ethically sourced, made with integrity.
+- **Where it is weak:** Most are US-origin brands competing on Amazon with no ANZ-specific provenance story, no founder face, and no personal authority behind the clean-ingredient claim.
+- **Our response:** Petzip offers the same clean-ingredient standard with a genuine ANZ clean-and-green provenance story and a founder who worked at the top of the global pet industry and chose to do something smaller and more honest.
+
+### Mass-market natural treat brands (Greenies, Zuke's, Blue Buffalo)
+
+- **Their claim:** Natural, vet-recommended, widely available, trusted by millions.
+- **Where it is weak:** Scale has diluted the meaning of natural. Ingredient lists have grown, sourcing has become opaque, and the brand relationship is retailer-mediated, not direct.
+- **Our response:** Petzip does not compete on shelf-space or volume. It competes on trust, transparency, and the founder's ability to explain exactly what is in the bag and why.
+
+### Generic private-label and unbranded natural treat sellers
+
+- **Their claim:** Natural treats at a lower price point, often via marketplaces.
+- **Where it is weak:** No provenance, no founder accountability, no brand story, no reason to return beyond price.
+- **Our response:** Petzip customers are not buying on price. They are buying proximity to a founder with proven industry expertise who has staked a personal reputation on every ingredient decision.
+
+
+## Expression
+
+> How the brand and business looks, sounds and behaves in market, held to one voice across every channel.
+
+- **Voice:** Direct, warm and quietly expert: the voice of someone who has spent a decade inside the global pet industry and walked away to do it properly. Speaks to pet owners as fellow animal people, not as consumers. Uses plain language about ingredients and provenance because the founder has nothing to hide. Personal singular, not corporate plural.
+- **Traits:** Provenance-honest: every ingredient claim is traceable and stated plainly, no greenwashing, Founder-warm: the personality and judgement of the person behind the product is always present, Premium-restrained: the brand feels expensive without performing luxury, confident without being loud
+- **Generic test (we would never say):** We love pets and only use the best natural ingredients.
+
+## Evidence
+
+- Founder spent over a decade as a pet industry executive at Mars Petcare, one of the world's largest pet care companies.
+- Positioning targets the premium ANZ natural treat tier, citing Ziwi Peak as the reference-point brand, indicating deliberate premium price anchoring.
+
+## Killer questions
+
+- What is the one ingredient or sourcing decision that makes Petzip treats objectively different from what a buyer could find from Ziwi Peak or a comparable ANZ premium brand today?
+- The name Petzip is already associated with two other established pet businesses in public search. How will a new customer in ANZ find this brand, and what is the plan to own the name before design and marketing spend begins?
+- The offer references celebrity and influencer partnerships, including in China. Is the primary market ANZ or is there a parallel international strategy, and how does that affect which customer and which positioning to build first?
+- What is the production and sourcing model at launch: is this contract-manufactured, own-produced, or white-labelled, and does the provenance story hold under scrutiny at that production method?
+- If a premium ANZ pet owner asks why they should choose Petzip over a brand they already trust and can buy in their local store, what is the one-sentence answer that the founder, not a copywriter, would give?
+
+## Decision
+
+### Decided
+
+- Primary customer is premium-minded ANZ pet owners buying clean-ingredient treats as an expression of the bond with their animal.
+- Positioning anchors on ANZ clean-and-green provenance plus founder authority from a decade at Mars Petcare.
+- The brand voice is personal and founder-led, not corporate plural.
+- The competitive reference tier is Ziwi Peak: premium, provenance-backed, daily-use.
+- The offer ladder runs from a low-barrier entry format through a core treat range to a bundle or subscription expansion tier.
+- The single reason to choose Petzip is founder knowledge applied to ingredient honesty, not marketing applied to a commodity product.
+
+### Open
+
+- Target species: dog only, cat, or multi-species. This determines the product range, the creative territory, and the audience.
+- Specific product names, ingredients, and sourcing partners.
+- Pricing architecture and whether it holds at the premium tier claimed.
+- Production model: own-made, contract-manufactured, or white-labelled, and whether provenance claims survive that model.
+- The celebrity and influencer strategy: who, which markets, what timeline, and whether China or other international markets are in scope at launch or later.
+- Distribution model: DTC-first, wholesale, marketplaces, or retail.
+- The expression concept linked in the brief could not be accessed. Visual identity, colour, typography and packaging direction are all unknown.
+- Whether any certifications (organic, HACCP, export-grade) are planned or already in place.
+- Founder's full name and whether the personal brand is named or nameless at launch.
+
+### Required before design
+
+- Target species confirmed, as this determines all visual and copy direction.
+- Product range settled at minimum to one hero SKU with confirmed ingredients and sourcing.
+- The brand name clash with petzip.com and petzip.net must be assessed legally and strategically before any design asset is produced under the Petzip name.
+- Access to the expression concept (Google Drive link) must be confirmed so visual direction can be reviewed and incorporated.
+- Evidence to substantiate the positioning: at minimum two to three proof points beyond founder background must be identified (product certifications, provenance documentation, customer testimonials, or awards) before design begins.
+- Founder's personal brand stance confirmed: is the founder named and visible, or does Petzip operate as a standalone brand with founder authority implied but not foregrounded?
+
+## Assumptions
+
+- Positions on ANZ clean-and-green provenance as the ownable seam (client confirmed in follow-up, treated as decided).
+- Ziwi Peak cited by client as the reference brand, used to anchor the premium tier of the offer ladder (client's own words, confirmed).
+- Name clash with petzip.com (pet accessories retailer on Walmart) and petzip.net (high-end pet accessories brand) identified in public sweep and represents a significant SEO and brand confusion risk (public signal, confirm with legal review before design).
+- The website petzipstar.com returns no indexed results and the business has no discoverable public footprint at this time (public signal, confirm).
+- No social media presence identified in public sweep (public signal, confirm).
+- PetZip Group BBB listing (Corona, California) is a separate unrelated entity and has not been attributed to this client (public signal, confirm).
+- The natural pet treat category in ANZ and globally is heavily contested with established players including Greenies, Blue Buffalo, Vital Essentials, and Zuke's commanding significant Amazon and retail presence; discovery barrier for a new entrant with no public signal is high (public signal, confirm relevance to ANZ distribution strategy).
+- Target species not confirmed by client. Dog assumed as primary based on the emotional language used and market norms, but cat and other species are possible (public signal inference, confirm with client).
+- Expression concept was linked but could not be accessed by this process. Visual direction is treated as unknown and listed as required before design (public signal, confirm access).
