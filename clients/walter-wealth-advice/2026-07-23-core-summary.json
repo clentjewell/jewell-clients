@@ -1,0 +1,136 @@
+{
+  "kind": "core",
+  "readToken": "282e6395e1779f21bec7654949786804",
+  "artefact": {
+    "belief": "Financial advice should feel like a trusted conversation, not a transaction. When people are genuinely organised and confident in their money, they stop worrying about tomorrow and start living the life they have worked for.",
+    "customers": {
+      "lead": {
+        "name": "Pre-retirees in their 50s and early 60s",
+        "buying": "Confidence, organisation and reassurance. They have accumulated assets, the mortgage is gone, the kids have left home, and they are now confronting a question they have deferred for years: is what I have enough, and am I doing the right things with it? They are buying clarity and a trusted person to call when doubt creeps in.",
+        "why": "This cohort has the asset base to sustain a full ongoing advice relationship, the life stage urgency to act now, and the willingness to pay for expert guidance. They represent the highest commercial pull and are the client Nick is explicitly building for."
+      },
+      "scale": {
+        "name": "Established investors already engaged with their wealth",
+        "buying": "A more sophisticated and responsive relationship than an institutional adviser can offer. They want institutional-grade thinking at a more personal fee point, delivered by someone who has sat inside the private banking world and understands how it works.",
+        "why": "Proven by the long-tenure client testimonials on the site, this group anchors the recurring revenue base and validates the practice's track record publicly."
+      },
+      "reference": null
+    },
+    "offer": {
+      "ladder": [
+        {
+          "tier": "Entry",
+          "name": "Investment Advice",
+          "what": "Focused investment strategy and portfolio guidance, delivered with the same engaged relationship as the full service but scoped to investment decisions only. Lower fee structure reflects the narrower brief.",
+          "reason": "Allows clients who are not yet ready for holistic planning to experience the Walter Wealth relationship and build trust before committing to a broader engagement."
+        },
+        {
+          "tier": "Core",
+          "name": "Holistic Financial Planning",
+          "what": "Comprehensive ongoing advice across wealth strategy, superannuation, retirement planning and estate planning, anchored in a personalised plan and a continuing relationship with Nick. This is the Walter Wealth Way in full: organised, confident, on a clear path.",
+          "reason": "This is where the full value of Nick's private-banking background and his ability to act quickly is felt. It is the engine of the practice and the relationship most clients will hold for many years."
+        }
+      ],
+      "oneReason": "Nick Walter spent roughly 19 years inside Macquarie Private Bank seeing how institutional money is managed, then left to offer that same thinking directly, personally and at a lower cost. You get the institutional pedigree without the institutional distance."
+    },
+    "rivals": [
+      {
+        "who": "Boutique independent financial planning practices in Sydney and Melbourne (for example Peak Wealth Management, Quantum Financial, Montara Wealth)",
+        "claim": "Independent, personalised advice for HNW and pre-retiree clients.",
+        "weakness": "Most are adviser-firm brands, not personal brands. The relationship is with the firm, not a named individual with a publicly traceable career history. When the lead adviser is not visible, reassurance is harder to earn.",
+        "response": "Nick Walter is the product. Clients know exactly who they are engaging, can see his background, and speak directly to him. The personal accountability is built into the brand, not just promised in the brochure."
+      },
+      {
+        "who": "Macquarie Private Bank and CommBank private wealth (institutional incumbents)",
+        "claim": "Institutional research, prestige and the security of a large organisation behind your money.",
+        "weakness": "High fees, relationship managers who rotate, and advice that is filtered through a product shelf the institution also profits from. The client is managed, not genuinely advised.",
+        "response": "Nick came from inside that world. He knows what the private bank delivers and what it does not. Walter Wealth Advice offers the same quality of thinking with no institutional conflict, a direct relationship and a more competitive fee."
+      },
+      {
+        "who": "DIY investors and self-directed platforms",
+        "claim": "Lower cost and full control, especially with improving investment tools and information available online.",
+        "weakness": "Confidence without accountability. DIY investors tend to underestimate the complexity of superannuation strategy, tax positioning, estate planning and sequencing risk as they approach retirement. The cost of a bad decision in the years just before retirement is asymmetric.",
+        "response": "Nick does not compete on the premise that DIY is always wrong. He competes on the premise that organisation, clarity and someone to call in a volatile moment is worth more than the fee saved, particularly in the decade before retirement."
+      },
+      {
+        "who": "AI-assisted financial planning tools and robo-advice platforms",
+        "claim": "Accessible, low-cost, data-driven guidance available at any time.",
+        "weakness": "No relationship, no genuine reassurance in a moment of anxiety, no ability to read the emotional context of a client's life. Algorithms do not call you back.",
+        "response": "The pre-retiree client is not buying a spreadsheet. They are buying confidence and someone who listens. That is irreducibly human and it is what Nick delivers."
+      }
+    ],
+    "expression": {
+      "voice": "Warm, direct and unhurried. Nick speaks plainly about money without condescension and without jargon. The tone is the tone of a trusted friend who happens to have spent two decades at the highest level of private banking. Reassured and reassuring at the same time.",
+      "traits": [
+        "Candid: says the thing that needs to be said, even when it is not what the client hoped to hear, because honesty is the foundation of confidence",
+        "Engaged: genuinely curious about the client's life goals, not just their balance sheet, and willing to move quickly when action is needed",
+        "Grounded: the private-banking background is stated matter-of-factly, not performed. Authority comes from track record, not from language that signals importance"
+      ],
+      "genericTest": "We provide tailored financial solutions to help you achieve your goals."
+    },
+    "position": "Nick Walter spent close to two decades advising high-net-worth clients inside Macquarie Private Bank, then built a personal practice to offer that same quality of thinking directly, at a lower cost and without institutional distance. Walter Wealth Advice is built for people in their 50s who have done the hard work of accumulating assets and now need a trusted, engaged adviser to help them organise, grow and protect what they have, so they can retire on their own terms. The practice is Nick: one voice, one relationship, one clear point of accountability.",
+    "evidence": [
+      "Nick Walter's career includes prior roles at CommBank and approximately 19 years at Macquarie Private Bank before founding Walter Wealth Advice (public signal, confirm).",
+      "Client Catherine and John Percy have been clients for 15 years, named and quoted on the practice website, indicating sustained long-term relationships.",
+      "Client Scott Kelly, company CEO, is quoted as an 8-year client, indicating the practice also serves business-owner and executive clients.",
+      "The practice operates across Sydney, Melbourne and Byron Bay, suggesting multi-location client relationships built on adviser trust rather than geography (public signal, confirm)."
+    ],
+    "killerQuestions": [
+      "Every boutique adviser in Sydney says they offer a personal relationship with institutional-quality thinking. What is the specific, concrete difference a client would feel inside the first 90 days with Nick compared to any other independent planner making the same claim?",
+      "The lower-fees-than-private-bank claim is stated publicly but not substantiated. What is the actual fee structure and how does it compare to what a Macquarie Private Bank client would pay for equivalent assets under management?",
+      "The practice currently holds two named testimonials, both long-standing clients. How does a prospect with no existing relationship build enough trust to sign on, and what is the conversion pathway from first contact to engaged client?",
+      "If the practice grows, how does the personal brand scale without Nick becoming a bottleneck or the intimacy of the relationship being diluted?",
+      "The animated experience-counter on the website fails to render in non-JavaScript environments including search crawls. A prospect who arrives via search and cannot see the years-of-experience figures loses the primary trust signal before the conversation begins. Is this being fixed?"
+    ],
+    "decision": {
+      "decided": [
+        "The lead customer is the pre-retiree in their 50s to early 60s with accumulated assets, paid-off mortgage and grown children, who needs organisation, confidence and a trusted ongoing relationship.",
+        "The offer is a two-tier ladder: Investment Advice (entry, lower fee) and Holistic Financial Planning (core, full relationship).",
+        "The single reason to choose Walter Wealth Advice is Nick Walter's private-banking pedigree made available personally and directly, without institutional cost or distance.",
+        "The four rival categories are: boutique independent practices, institutional incumbents (Macquarie Private Bank, CommBank), DIY investors, and AI-assisted platforms.",
+        "The brand voice is warm, candid and grounded in personal authority. The person is the product.",
+        "DIY investors and AI platforms are real competitive pressures for this client segment and must be addressed in positioning, not ignored.",
+        "The NFP segment is not a developed commercial priority and should not be foregrounded in brand expression until it is intentionally resourced."
+      ],
+      "open": [
+        "The actual fee structure and how it compares numerically to Macquarie Private Bank equivalents.",
+        "Whether the 'Walter Wealth Way' proprietary method is fully articulated and client-facing, or is still an internal framing.",
+        "Whether Nick intends to grow the practice with additional advisers, and if so, how the personal brand transitions without losing its core promise.",
+        "The NFP client segment: is it a deliberate strategic priority or a legacy of past work? If deliberate, it needs its own positioning.",
+        "The copyright inconsistency between 2025 and 2026 on the website suggests uneven site maintenance (public signal, confirm)."
+      ],
+      "requiredBeforeDesign": [
+        "Fee structure must be decided and approved for disclosure so the lower-fees claim can be substantiated, at least in context, in brand and web copy.",
+        "The JavaScript-rendered experience counters on the website must be fixed to display correctly in non-rendered environments before any new design builds on those figures as trust signals.",
+        "The Centrepoint Alliance licensee relationship must be explained in plain language for a lay audience and positioned as a positive compliance and oversight signal, not left as unexplained legalese in the footer.",
+        "Evidence to substantiate the positioning: independent reviews, verified case studies or data points beyond the two existing site testimonials should be identified before design locks the trust architecture."
+      ]
+    },
+    "meta": {
+      "name": "Walter Wealth Advice",
+      "orgType": "personal",
+      "date": "2026-07-23",
+      "assumptions": [
+        "Nick Walter's career includes approximately 19 years at Macquarie Private Bank and prior time at CommBank (public signal, confirm).",
+        "The practice operates across Sydney, Melbourne and Byron Bay (public signal, confirm).",
+        "Walter Wealth Advice is registered as CAR No 1308116 under the AFSL of Alliance Wealth Pty Ltd, a Centrepoint Alliance licensee (public signal, confirm).",
+        "The website animated counters for years of experience render as zero in non-JavaScript environments including search crawlers, suppressing a key trust signal (public signal, confirm).",
+        "The website footer shows inconsistent copyright years of 2025 and 2026 across inner and homepage versions, suggesting a partial update cycle (public signal, confirm).",
+        "Positions on lower fees relative to private-bank alternatives are stated publicly but not substantiated with specific figures on the site (public signal, confirm).",
+        "Walter Wealth Advice does not currently appear on major Australian financial planner directory listing sites (public signal, confirm).",
+        "No independent third-party review profiles were found in public search results; only two named client testimonials appear on the practice's own website (public signal, confirm).",
+        "The NFP client segment is referenced in website body text but does not appear in main navigation or solutions pages (public signal, confirm).",
+        "LinkedIn is the only active social channel publicly visible; the hashtag walterwealth returned no independent social content (public signal, confirm).",
+        "Named boutique competitors identified in the sweep include Peak Wealth Management, Quantum Financial, Montara Wealth, Multiforte Financial Services and Grand Plan Wealth, all Sydney-based (public signal, confirm)."
+      ]
+    }
+  },
+  "context": {
+    "orgType": "personal",
+    "name": "Walter Wealth Advice",
+    "oneLiner": "As a financial planner - I help people be organised and confident in their investment such that they're on a journey to grow their wealth and achieve their life goals.",
+    "website": "https://walterwealth.com.au/",
+    "socials": "#walterwealth"
+  },
+  "savedAt": "2026-07-23T00:51:22.030Z"
+}
